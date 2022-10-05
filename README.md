@@ -1,5 +1,4 @@
 # PUBNEWS - A News website for events in the city! | Static Visual Management
-# https://pubnews.netlify.app
 
 <h3>What was used?</h3>
 
@@ -23,3 +22,6 @@ API folder:
 Website folder:
 -  npm run dev
 ```
+
+🚀Deployed at:
+# https://pubnews.netlify.app
