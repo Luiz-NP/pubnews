@@ -1,6 +1,7 @@
 # PUBNEWS - A News website for events in the city! | Static Visual Management
 # https://pubnews.netlify.app
 
+<h3>What was used?</h3>
 ```
   👨‍💻 Front-End - 🚀 Deployed using Netlify
   React.JS | Vite.JS
