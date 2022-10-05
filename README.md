@@ -1,10 +1,11 @@
 # PUBNEWS - A News website for events in the city!
 # https://pubnews.netlify.app
+```
+  👨‍💻 Front-End - 🚀 Deployed using Netlify
+  React.JS | Vite.JS</h3>
+```
 
-<div>
-  <h3>👨‍💻 Front-End - 🚀 Deployed using Netlify</h3>
-  <h3>React.JS | Vite.JS</h3>
-</br>
-  <h3>👨‍💻 Back-End - 🚀 Deployed using Repl.it</h3>
-  <h3>Node.JS | Express | Cors</h3>
-</div>
+```
+  👨‍💻 Back-End - 🚀 Deployed using Repl.it
+  Node.JS | Express | Cors
+```
