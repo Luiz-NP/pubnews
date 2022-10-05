@@ -13,11 +13,11 @@
 
 <h3>How to make it work?</h3>
 
-<h3>In API folder run:</h3>
-  ```
-  node index.js
-  ```
-<h3>In Website folder run:</h3>
-  ```
-  npm run dev
-  ```
+```
+API folder:
+-  node index.js
+```
+```
+Website folder:
+-  npm run dev
+```
