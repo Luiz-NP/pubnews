@@ -1,7 +1,5 @@
-#
 # PUBNEWS - A News website for events in the city!
 # https://pubnews.netlify.app
-#
 
 <div>
 <h1>Working with<h1>
