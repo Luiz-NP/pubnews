@@ -23,5 +23,5 @@ Website folder:
 -  npm run dev
 ```
 
-🚀Deployed at:
-# https://pubnews.netlify.app
+
+#🚀Deployed at: https://pubnews.netlify.app
