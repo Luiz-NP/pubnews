@@ -2,6 +2,7 @@
 # https://pubnews.netlify.app
 
 <h3>What was used?</h3>
+
 ```
   👨‍💻 Front-End - 🚀 Deployed using Netlify
   React.JS | Vite.JS
