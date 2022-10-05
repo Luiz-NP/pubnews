@@ -3,7 +3,6 @@
 
 <div>
 <li>
-  <h1>Working with:<h1>
   <h3>Front-End - Deployed using Netlify</h3>
   <h3>React.JS | Vite.JS</h3>
 </br>
