@@ -1,4 +1,4 @@
-# PUBNEWS - A News website for events in the city! | Static Visual Management
+# PUBNEWS - A News website for events in the city!
 
 <h3>What was used?</h3>
 
